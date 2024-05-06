@@ -1,4 +1,14 @@
-# Website for the CMU Data Interaction Group
+# TODO
+
+- [ ] Name
+- [ ] Homepage
+- [ ] Member
+- [ ] Person
+- [ ] Post
+- [ ] Publication
+
+
+# Website for the PJLab System Group
 
 Deployed at https://dig.cmu.edu/.
 

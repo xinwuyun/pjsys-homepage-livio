@@ -3,16 +3,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CMU Data Interaction Group
-email: dig@cmu.edu
+title: Shanghai AI Lab System Group
+email: pengsun@pjlab.org.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  We are a research group at the Human-Computer Interaction Institute at 
-  Carnegie Mellon University. Our mission is to empower everyone to analyze and 
-  communicate data with interactive systems.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dig.cmu.edu" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cmudig
-github_username: cmudig
+  We are a research group in Shanghai AI Lab, focusing on training system for large models.
+baseurl: "/pjsys-homepage-livio" # the subpath of your site, e.g. /blog
+url: "https://xinwuyun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: SHLab-System-Group
 
 sass:
   style: compressed
@@ -25,7 +22,7 @@ collections:
   people:
     output: false
   courses:
-    output: true
+    output: false
 
 # Build settings
 markdown: kramdown
